@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&pause=1000&color=00D2FF&background=1E293B&center=true&vcenter=true&width=800&height=100&lines=Leonardo+Kau%C3%AA;Computer+Science+Student;Freelance+Developer" alt="Typing SVG 8bit" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&pause=1000&color=00FF66&background=222222&center=true&vcenter=true&width=800&height=100&lines=Leonardo+Kau%C3%AA;Computer+Science+Student;Freelance+Developer&v=1" alt="Typing SVG 8bit" />
   </a>
 
   <br />
