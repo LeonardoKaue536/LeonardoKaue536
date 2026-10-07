@@ -8,6 +8,8 @@
 
   <br />
   <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoKaue536&theme=dark&background=181818&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
 
 </div>
 
