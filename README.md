@@ -1,6 +1,18 @@
 <div align="center">
   <img width="288" height="288" alt="Header GIF/Image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M2RtNjBvZmxydDYzNm43OHUydmh5eTl1eHBndmJmMnprbTF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" />
+  <div align="center">
 
+  <!-- Banner com efeito de máquina de escrever -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&height=50&lines=Welcome!;I'm+Leonardo+Kau%C3%AA;Computer+Science+Student;Freelance+Developer" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Quadro de Streak (Sequência de contribuições) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoKaue536&theme=dark&background=181818&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
+
+</div>
   <h1>Hi there, I'm Leonardo Kauê 👋</h1>
 
   <p>💻 Computer Science Student at PUC Minas | Freelance Developer</p>
