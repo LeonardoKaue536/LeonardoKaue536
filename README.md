@@ -3,7 +3,7 @@
 
   <h1>Hi there, I'm Leonardo Kauê 👋</h1>
 
-  <p>💻 Computer Science Student at PUC Minas | Tech Enthusiast</p>
+  <p>💻 Computer Science Student at PUC Minas | Freelance Developer</p>
 </div>
 
 ---
