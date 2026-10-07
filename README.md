@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&pause=1000&color=00FF66&background=222222&center=true&vcenter=true&width=800&height=100&lines=Leonardo+Kau%C3%AA;Computer+Science+Student;Freelance+Developer&v=1" alt="Typing SVG 8bit" />
-  </a>
+  <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Leonardo%20Kau%C3%AA&fontSize=40&desc=Computer%20Science%20Student%20|%20Freelance%20Developer&descSize=15&animation=typing" alt="Banner Animado" />
 
   <br />
 
