@@ -14,7 +14,7 @@
 - 🛠️ Solid foundation in **Java**, **C**, and **C++**.
 - 🌐 Experience with Web Development (HTML5, CSS3, JavaScript).
 - 🚀 Always looking to expand my knowledge, learn new languages, and build practical projects.
-- 💬 Ask me about: **Java, Algorithms, Data Structures, and Software Development**.
+- 💬 Ask me about: **Java, Algorithms**.
 
 ---
 
