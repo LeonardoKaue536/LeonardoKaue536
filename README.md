@@ -1,17 +1,10 @@
 <div align="center">
 
-  <!-- Banner com texto animado integrado -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=200&section=header&text=Leonardo%20Kau%C3%AA&fontSize=50&fontColor=ffffff&animation=typing" alt="Header Banner Typing" />
-
-  <br />
-  <br />
-
-  <!-- Subtítulo animado estilo 8-bit logo abaixo do banner -->
+  <!-- Texto Animado 8-bit no topo -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&height=50&lines=Computer+Science+Student;Freelance+Developer" alt="Typing SVG 8bit" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=800&height=100&lines=Leonardo+Kau%C3%AA;Computer+Science+Student;Freelance+Developer" alt="Typing SVG 8bit" />
   </a>
 
-  <br />
   <br />
 
   <!-- GIF Principal / Pixel Art -->
@@ -23,9 +16,6 @@
   <!-- Cartão de Streak em Azul -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoKaue536&theme=dark&background=181818&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" />
 
-  <h1>Hi there, I'm Leonardo Kauê 👋</h1>
-
-  <p>💻 Computer Science Student at PUC Minas | Freelance Developer</p>
 </div>
 
 ---
@@ -43,4 +33,12 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
