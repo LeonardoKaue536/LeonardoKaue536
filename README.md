@@ -12,7 +12,16 @@
   <br />
 
 </div>
+---
 
+### 👨‍💻 About Me
+
+- 🎓 Currently pursuing a Bachelor's degree in **Computer Science** at **PUC Minas**.
+- 🛠️ Solid foundation in **Java**, **C**, and **C++**.
+- 🌐 Experience with Web Development (HTML5, CSS3, JavaScript).
+- 🚀 Always looking to expand my knowledge, learn new languages, and build practical projects.
+- 💬 Ask me about: **Java, Algorithms**.
+  
 ---
 
 ### 💻 Languages
